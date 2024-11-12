@@ -1,0 +1,11 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cache/
+.docker/
+.lesshst
+.local/
+.ssh/
+.terraform.d/
+.viminfo
